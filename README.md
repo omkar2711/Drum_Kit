@@ -20,7 +20,7 @@
   <p>To run the Drum Kit Website locally on your machine, follow these steps:</p>
 
   <ol>
-    <li>Clone this repository: <code>git clone [repository URL]</code></li>
+    <li>Clone this repository: <code>git clone https://github.com/omkar2711/Drum_Kit/</code></li>
     <li>Open the project in your preferred code editor.</li>
     <li>Open <code>index.html</code> in your web browser.</li>
   </ol>
